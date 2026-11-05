@@ -1,0 +1,2 @@
+Scripts SQL de la base de datos biblioteca (MySQL 8.0): 01_esquema, 02_datos, 03_usuarios (plantilla) y 04_verificacion.
+03_usuarios.sql lleva marcadores, NO contrasenas reales. infra/instalar_mysql.sh crea las cuentas pidiendo las contrasenas por teclado.

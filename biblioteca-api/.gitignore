@@ -1,0 +1,13 @@
+# Secretos: NUNCA al repositorio
+*.pem
+*.env
+
+# Maven / IDE
+target/
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+HELP.md

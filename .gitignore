@@ -1,0 +1,14 @@
+# Secretos: NUNCA al repositorio
+*.pem
+*.env
+# Compilacion e IDE
+target/
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# Material personal y archivos de trabajo (no van al repositorio)
+GUIA_calagu.md
+memoria.docx
+*.zip
