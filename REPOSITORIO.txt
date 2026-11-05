@@ -1,2 +1,2 @@
 URL del repositorio Git privado: https://github.com/Calagu/aAWS_calagu
-Acceso concedido al profesor: Gines-Lopez-Arribas (Ginés López Arribas), invitado como colaborador
+Acceso concedido al profesor: Gines-Lopez-Arribas (invitado como colaborador)
